@@ -1,6 +1,6 @@
 # Crypto Arbitrage Bot
 
-<h2>How To Install</h2>
+<h2>How to install</h2>
 
 ```` 
 git clone https://github.com/umitbilgin/crypto-arbitrage-bot/
